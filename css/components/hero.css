@@ -1,0 +1,21 @@
+.banner {
+  background-image: url("https://images.unsplash.com/photo-1559251606-c623743a6d76?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80");
+  object-fit: cover;
+  height: 500px;
+  width: 100%;
+  background-position: top;
+}
+
+.container-hero {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  height: 100%;
+}
+
+.container-hero p {
+  margin-top: 10px;
+  font-size: 16px;
+  opacity: 0.7;
+  font-weight: lighter;
+}

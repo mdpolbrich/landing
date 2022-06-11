@@ -1,0 +1,19 @@
+.footer {
+  background-color: #EEEEEE;
+  width: 100%;
+  height: 200px;
+  text-align: center;
+}
+
+.footer-socials {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 40px 0 0 0;
+}
+
+.footer-socials > a {
+  font-size: 40px;
+  color:#3A5BA0;
+  margin: 10px 20px;
+}
